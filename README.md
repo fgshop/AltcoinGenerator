@@ -1,3 +1,6 @@
+# Fork from AltcoinGenerator by itsddan
+Thank you very much @tiagosh
+
 # Altcoin Generator
 Easiest way to create your own cryptocurrency.
 
